@@ -1,0 +1,14 @@
+{
+  "appId": "com.the.holy.quran",
+  "appName": "The Holy Quran",
+  "webDir": "public",
+  "linuxAndroidStudioPath": "/snap/android-studio/current/android-studio/bin/studio.sh",
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
